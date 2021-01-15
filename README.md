@@ -11,7 +11,7 @@
 All tags are parsed case insensitive.
 
 ### Balanced
-`<b>`, `<blockquote>`, `<code>`, `<em>`, `<h1>`, ..., `<h6>`, `<li>`, `<ol>`, `<ol start="42">`, `<p>`, `<pre>`, `<sub>`, `<sup>`, `<strong>`, `<strike>`, `<ul>`
+`<b>`, `<blockquote>`, `<code>`, `<em>`, `<h1>`, ..., `<h6>`, `<li>`, `<ol>`, `<ol start="42">`, `<p>`, `<pre>`, `<sub>`, `<sup>`, `<strong>`, `<strike>`, `<ul>`, `<details>`, `<summary>`
 
 ### Standalone
 `<br>`, `<hr>`
